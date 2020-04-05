@@ -1,0 +1,8 @@
+.series-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+.series-list-item {
+    color: #000000;
+    text-decoration: 'none';
+}
